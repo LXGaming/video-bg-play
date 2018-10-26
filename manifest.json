@@ -7,7 +7,7 @@
 
   "applications": {
     "gecko": {
-      "id": "video-bg-play@timdream.org",
+      "id": "video-bg-play@lxgaming.github.io",
       "strict_min_version": "42.0"
     }
   },
